@@ -1,2 +1,3 @@
-# shivangi
-this is my first Git repository
+# PRoject
+this is my first Git Repository
+Author- Shivangi Roy
